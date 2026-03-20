@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+venv/
+data/
+logs/
+*.egg-info/
+.DS_Store
+Webshare*.txt
+news_run.json
